@@ -18,7 +18,7 @@ To compile the specification paper in PDF format using Docker, execute:
 ```
 make docker/pdf
 ```
-The output will be generated and saved as `output/neofs-spec-<revision>.pdf`. This method ensures that all dependencies are managed within the container, streamlining the build process.
+The output will be generated and saved as `output/epicchain-spec-<revision>.pdf`. This method ensures that all dependencies are managed within the container, streamlining the build process.
 
 If you need to build the Docker image locally, you can do so with the following command:
 ```
@@ -27,7 +27,7 @@ make image
 
 ## How to Contribute
 
-If you have expertise in NeoFS technology and are interested in contributing to the documentation, you are welcome to submit a Pull Request with your proposed changes. 
+If you have expertise in epicchain technology and are interested in contributing to the documentation, you are welcome to submit a Pull Request with your proposed changes. 
 
 Our initial goal is to develop a comprehensive and broad version of the document. Future revisions and polishing will enhance the document's quality and detail.
 
